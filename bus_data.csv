@@ -1,0 +1,4 @@
+bus_id,route,latitude,longitude,speed
+BUS101,Route-A,16.5062,80.6480,35
+BUS102,Route-B,16.5123,80.6305,28
+BUS103,Route-C,16.5190,80.6400,40
