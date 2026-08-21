@@ -1,0 +1,49 @@
+BUS TRACKING SYSTEM
+===================================
+
+Loaded buses:
+
+Bus ID   : BUS101
+Route    : Route-A
+Location : (16.5062, 80.6480)
+Speed    : 35.0 km/h
+Status   : Stopped
+-----------------------------------
+
+Bus ID   : BUS102
+Route    : Route-B
+Location : (16.5123, 80.6305)
+Speed    : 28.0 km/h
+Status   : Stopped
+-----------------------------------
+
+Bus ID   : BUS103
+Route    : Route-C
+Location : (16.5190, 80.6400)
+Speed    : 40.0 km/h
+Status   : Stopped
+-----------------------------------
+
+Simulation Update 1
+-----------------------------------
+
+Bus ID   : BUS101
+Route    : Route-A
+Location : (16.5072, 80.6490)
+Speed    : 35.0 km/h
+Status   : Moving
+-----------------------------------
+
+Bus ID   : BUS102
+Route    : Route-B
+Location : (16.5133, 80.6315)
+Speed    : 28.0 km/h
+Status   : Moving
+-----------------------------------
+
+Bus ID   : BUS103
+Route    : Route-C
+Location : (16.5200, 80.6410)
+Speed    : 40.0 km/h
+Status   : Moving
+-----------------------------------
